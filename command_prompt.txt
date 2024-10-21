@@ -1,13 +1,4 @@
-Microsoft Windows [Version 10.0.22631.4317]
-(c) Microsoft Corporation. All rights reserved.
 
-D:\>git clone https://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:x-oauth-basic@github.com/tomgalaxytom/mern_projects.git
-Cloning into 'mern_projects'...
-remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Compressing objects: 100% (2/2), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-Receiving objects: 100% (3/3), done.
 
 D:\>cd mern_projects
 
